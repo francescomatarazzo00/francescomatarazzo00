@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# About Me
+## About Me
 
 My name is Francesco Matarazzo and I am a Master's student in Complex Systems Physics at the University of Turin. I enjoy mathematics, especially applying it to real-world problems, such as those in the financial world, which is why I have taken a course in Financial Mathematics. I am also fascinated by the field of Artificial Intelligence.
 
