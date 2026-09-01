@@ -6,6 +6,9 @@ My name is Francesco Matarazzo and I am a Master's student in Complex Systems Ph
 
 I am currently looking for a company that would offer me the opportunity to undertake an internship related to data analysis and Artificial Intelligence, which could also serve as the basis for my final Master's thesis project.
 
+## Projects
+**Portfolio Optimization**: Academic project developed for the course **“Fundamentos de Matemática Financiera”**, in which, in addition to putting financial mathematics concepts into practice, I gained hands-on experience with Git and GitHub.
+
 ### 📫 How to reach me:
 <div align="left">
   <a href="https://www.linkedin.com/in/francesco-matarazzo" target="_blank">
@@ -16,18 +19,3 @@ I am currently looking for a company that would offer me the opportunity to unde
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" alt="Gmail" />
   </a>
 </div>
-
-<!--
-**francescomatarazzo00/francescomatarazzo00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
